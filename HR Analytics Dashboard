@@ -1,0 +1,13 @@
+🔍 Data Import & Transformation
+Starting with importing diverse HR datasets into Power BI, I utilized Power Query to clean, transform, and ensure the data was ready for analysis. This crucial step involved handling missing values, merging datasets, and creating calculated columns.
+
+📊 Building Analytical Models with DAX
+Using DAX (Data Analysis Expressions), I created advanced measures and calculations to delve into key HR metrics. These calculations provided insights into employee turnover, performance metrics, and demographic analyses.
+
+📈 Visualization & Interaction
+I designed dynamic charts, graphs, and tables, ensuring they were not only visually appealing but also highly interactive. Filters and slicers were incorporated to allow users to drill down into specific data points, making the dashboard highly customizable.
+
+📋 Dashboard Setup & Export
+The final step was setting up the HR Analytics Dashboard in Power BI. It was structured to provide clear, at-a-glance insights, with the ability to export the dashboard for reporting and presentations. The result? A powerful tool for HR teams to make data-driven decisions quickly and efficiently.
+🔗 Key Insights
+The dashboard provided key insights into employee demographics, attrition rates, performance trends, and more, allowing HR professionals to take proactive measures in talent management and workforce planning.
